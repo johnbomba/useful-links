@@ -1,6 +1,7 @@
 useful links and some commands :
 
  **WSL**
+ 
  ```before trying to install wsl make sure that windows is fully updated```
  https://docs.microsoft.com/en-us/windows/wsl/install-win10
  ```setting up vscode with WSL```
@@ -16,6 +17,7 @@ useful links and some commands :
  ```ln -s /mnt/c/Users/<windows user name>/Downloads .``` # don't forget the '.'
 
  **GIT**
+
  ```setup an SSH key:```
  https://help.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 
@@ -26,6 +28,7 @@ useful links and some commands :
  https://github.com/github/gitignore
 
  **PYTHON**
+
  ```f-strings```
  https://realpython.com/python-f-strings/
 
@@ -36,14 +39,17 @@ useful links and some commands :
  https://realpython.com/primer-on-python-decorators/
 
  **DIGITAL OCEAN**
+
  ```initial server setup```
  https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04
 
  **BASH**
+
  ``` how to use SCP```
  https://haydenjames.io/linux-securely-copy-files-using-scp/
 
  **Video Links**
+
  ```crypto currency```
  https://youtu.be/bBC-nXj3Ng4
 
@@ -54,14 +60,10 @@ useful links and some commands :
  https://youtu.be/Pe_3cFuSw1E
 
  **SQLITE**
+
  ```sqlite3 data types```
  https://www.sqlite.org/datatype3.html
  https://docs.python.org/2/library/sqlite3.html#sqlite-and-python-types
-
-I reached my character limit so here are :
-More useful links and commands: 
-
-**Video Links cont.**
 
 ```neural networks```
 4 part video series  
@@ -71,6 +73,7 @@ https://youtu.be/Ilg3gGewQ5U
 https://youtu.be/tIeHLnjs5U8
 
 **PYTHON PEP **
+
 pep 8 style guide
 https://www.python.org/dev/peps/pep-0008/
 
